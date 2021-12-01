@@ -1,0 +1,119 @@
+# Translation of Plugins - WP Display Header - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WP Display Header - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-11 10:16:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WP Display Header - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://en.wp.obenland.it/?utm_source=wordpress&utm_medium=plugin&utm_campaign=wp-display-header"
+msgstr "http://en.wp.obenland.it/?utm_source=wordpress&utm_medium=plugin&utm_campaign=wp-display-header"
+
+#. Author of the plugin/theme
+msgid "Konstantin Obenland"
+msgstr "Konstantin Obenland"
+
+#. Description of the plugin/theme
+msgid "This plugin lets you specify a header image for each post and taxonomy/author archive page individually, from your default headers and custom headers."
+msgstr "Deze plugin geeft je de mogelijkheid een kopafbeelding te selecteren voor elk bericht en taxonomie/auteur archiefpagina, vanuit je standaard kopafbeeldingen en eigen kopafbeeldingen."
+
+#. Plugin URI of the plugin/theme
+msgid "http://en.wp.obenland.it/wp-display-header/?utm_source=wordpress&utm_medium=plugin&utm_campaign=wp-display-header"
+msgstr "http://en.wp.obenland.it/wp-display-header/?utm_source=wordpress&utm_medium=plugin&utm_campaign=wp-display-header"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Display Header"
+msgstr "WP Display Header"
+
+#: wp-display-header.php:523
+msgid "This will restore the original header image. You will not be able to restore any customizations."
+msgstr "Dit zal de standaard kopafbeelding terugzetten. Het is niet mogelijk aanpassingen te herstellen. "
+
+#: wp-display-header.php:522
+msgid "Restore Original Header Image"
+msgstr "Originele kopafbeelding herstellen"
+
+#: wp-display-header.php:503
+msgid "<strong>None:</strong> Show no header image."
+msgstr "<strong>Geen:</strong> Laat geen kopafbeelding zien."
+
+#: wp-display-header.php:497
+msgid "<strong>Random:</strong> Show a different image on each page."
+msgstr "<strong>Willekeurig:</strong> Laat een andere afbeelding zien op elke pagina."
+
+#. translators: Upload URL.
+#: wp-display-header.php:473
+msgid "The are no headers available. Please <a href=\"%s\">upload a header image</a>!"
+msgstr "Er zijn geen kopafbeeldingen beschikbaar. <a href=\"%s\">Upload een afbeelding</a>."
+
+#: wp-display-header.php:322
+msgid "Select a header image for the taxonomy archive page."
+msgstr "Selecteer een kopafbeelding voor de taxonomie archiefpagina."
+
+#: wp-display-header.php:320
+msgid "Select a header image for the author page."
+msgstr "Selecteer een kopafbeelding voor de auteurpagina."
+
+#: wp-display-header.php:272
+msgid "Choose Header"
+msgstr "Kies een kopafbeelding"
+
+#: wp-display-header.php:199 wp-display-header.php:262
+msgid "Header"
+msgstr "Kopafbeelding"
+
+#: wp-display-header.php:70
+msgid "WP Display Headers requires WordPress version 3.2 or later."
+msgstr "WP Display Headers werkt alleen op WordPress versie 3.2 of hoger."
+
+#: wp-display-header.php:64
+msgid "Your current theme does not support Custom Headers."
+msgstr "Je huidige thema ondersteunt geen aangepaste kopafbeeldingen."
+
+#: obenland-wp-plugins.php:249
+msgid "Subscribe via RSS"
+msgstr "Abonneren via RSS"
+
+#: obenland-wp-plugins.php:248
+msgid "Follow Konstantin on Twitter"
+msgstr "Volg Konstantin op Twitter"
+
+#: obenland-wp-plugins.php:237
+msgid "No news items, feed might be broken..."
+msgstr "Geen nieuwe berichten, het is mogelijk dat de feed niet goed werkt..."
+
+#: obenland-wp-plugins.php:233
+msgid "News from Konstantin"
+msgstr "Nieuws van Konstantin"
+
+#: obenland-wp-plugins.php:188
+msgid "Blog about it &amp; link to the plugin page"
+msgstr "Schrijf iets over &amp; link naar de plugin pagina"
+
+#: obenland-wp-plugins.php:187
+msgid "Rate the plugin 5&#9733; on WordPress.org"
+msgstr "Waardeer deze plugin 5&#9733; op WordPress.org"
+
+#: obenland-wp-plugins.php:185
+msgid "Or you could:"
+msgstr "Of je kunt:"
+
+#. translators: Plugin name.
+#: obenland-wp-plugins.php:173
+msgctxt "Plugin Name"
+msgid "Want to help make this plugin even better? All donations are used to improve %1$s, so donate $20, $50 or $100 now!"
+msgstr "Wil je helpen deze plugin nog beter te maken? Alle donaties worden gebruikt om %1$s te verbeteren, dus doneer nu $20, $50 of $100!"
+
+#: obenland-wp-plugins.php:166
+msgid "Help spread the word!"
+msgstr "Vertel je vrienden."
+
+#: obenland-wp-plugins.php:141
+msgid "Donate"
+msgstr "Doneren"
